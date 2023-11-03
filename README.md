@@ -1,7 +1,7 @@
 # Arduino_NANO_Ble_Object_recognition
 I am excited to share my recent project on LinkedIn, a simple proof of concept for object recognition AI, powered by the Arduino Nano 33 BLE Sense. This
 innovative model can identify eight types of basic monochromatic objects: 🍒🦋🪑🐿️🐦🎸🌳. You can explore the model and its functionalities on the Edge
-Impulse platform by following this link: Edge Impulse Object Recognition Model.
+Impulse platform by following this link: https://studio.edgeimpulse.com/studio/272255 .
 
 Hardware Components:
 
