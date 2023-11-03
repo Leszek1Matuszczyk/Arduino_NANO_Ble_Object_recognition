@@ -13,8 +13,7 @@ OV7675 Camera: To capture images of the objects we aim to recognize, we employ t
 1.12" Seeed OLED Display: Our choice of a Seeed OLED display, with a 1.12" screen, allows for clear and user-friendly presentation of the object recognition
 results.
 
-Tiny Machine Learning Shield: This shield plays a pivotal role in executing machine learning models on the Arduino Nano 33 BLE Sense, making it possible 
-for our object recognition AI to operate efficiently.
+Tiny Machine Learning Shield: Offers a Convenient Pinout for Cameras and Displays, Significantly Superior to a Breadboard Setup.
 
 I invite you to visit my LinkedIn post (linked here https://www.linkedin.com/feed/update/urn:li:activity:7106010500806680577/ ) to delve deeper into the 
 details of this project and learn about the exciting implications of this object recognition AI prototype. Your feedback and engagement are greatly
